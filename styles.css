@@ -1,0 +1,30 @@
+* {
+    margin: 8px;
+    padding: 8px;
+}
+
+h1 {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+ul {
+    background-color: burlywood;
+    border-radius: 15px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: gold;
+    list-style-type: square;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+a
+{
+    color: darkgreen;
+    font-size: larger;
+}
